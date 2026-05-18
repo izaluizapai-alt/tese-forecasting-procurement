@@ -14,7 +14,7 @@ Este repositório contém o código Python desenvolvido no âmbito da dissertaç
 
 O modelo é aplicado ao dataset **DataCo Smart Supply Chain** (180.519 registos, 52 variáveis, Jan 2015 – Set 2017) e compara cinco modelos de previsão numa série temporal diária de 1.003 observações.
 
-O impacto financeiro dos resultados — stock de segurança em USD por modelo e por categoria — é calculado e visualizado no dashboard Power BI disponível no Anexo III da dissertação.
+O impacto financeiro dos resultados, stock de segurança em USD por modelo e por categoria, é calculado e visualizado no dashboard Power BI disponível no Anexo III da dissertação.
 
 ---
 
