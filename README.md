@@ -25,7 +25,6 @@ Com z = 1,65 (nível de serviço 95%) e L = 7 dias (prazo de aprovisionamento fi
 
 Dashboard disponível em:  
 🔗 https://app.powerbi.com/view?r=eyJrIjoiODcwYzgzOTUtYThlNi00MDc2LWI2YmItM2UxZTFhZjZjNGFmIiwidCI6IjVlOWUzODBkLTQ3ZjAtNGE5NC04N2JkLWJmM2U2NDgzZWEyZSJ9
-
 ---
 
 ## Referências
