@@ -29,20 +29,20 @@ Dashboard disponível em:
 ---
 
 ## Referências
-- Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5–32.
-- Chen, T., & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System. *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 785–794.
-- Chopra, S., & Meindl, P. (2016). *Supply Chain Management: Strategy, Planning, and Operation* (6.ª ed.). Pearson.
-- Christopher, M. (2016). *Logistics & Supply Chain Management* (5.ª ed.). Pearson Education.
+- Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5-32.
+- Chen, T., & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System. *Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 785-794.
+- Chopra, S., & Meindl, P. (2016). *Supply Chain Management: Strategy, Planning, and Operation* (6.a ed.). Pearson.
+- Christopher, M. (2016). *Logistics & Supply Chain Management* (5.a ed.). Pearson Education.
 - Constante, F. J. N., Silva, F., & Pereira, A. C. (2019). *DataCo Smart Supply Chain for Big Data Analysis* [Dataset]. Mendeley Data. https://doi.org/10.17632/8gx2fvg2k6.5
-- Glas, A. H., & Kleemann, F. C. (2016). The impact of Industry 4.0 on procurement and supply management. *Journal of Procurement & Supply Management*, 22(4), 347–363.
-- Hohenstein, N. O., Feisel, E., Hartmann, E., & Giunipero, L. (2015). Research on the phenomenon of supply chain resilience: A systematic review and paths for further investigation. *International Journal of Physical Distribution & Logistics Management*, 45(1/2), 90–117.
-- Hyndman, R. J., & Athanasopoulos, G. (2021). *Forecasting: Principles and Practice* (3.ª ed.). OTexts. https://otexts.com/fpp3/
-- Januschowski, T., Gasthaus, J., Park, Y., Salinas, D., Flunkert, V., Seeger, M., & Smola, A. J. (2020). Criteria for classifying forecasting methods. *International Journal of Forecasting*, 36(1), 167–177.
-- Lim, B., Arık, S. Ö., Loeff, N., & Pfister, T. (2021). Temporal Fusion Transformers for interpretable multi-horizon time series forecasting. *International Journal of Forecasting*, 37(4), 1748–1764.
+- Glas, A. H., & Kleemann, F. C. (2016). The impact of Industry 4.0 on procurement and supply management. *Journal of Procurement & Supply Management*, 22(4), 347-363.
+- Hohenstein, N. O., Feisel, E., Hartmann, E., & Giunipero, L. (2015). Research on the phenomenon of supply chain resilience: A systematic review and paths for further investigation. *International Journal of Physical Distribution & Logistics Management*, 45(1/2), 90-117.
+- Hyndman, R. J., & Athanasopoulos, G. (2021). *Forecasting: Principles and Practice* (3.a ed.). OTexts. https://otexts.com/fpp3/
+- Januschowski, T., Gasthaus, J., Park, Y., Salinas, D., Flunkert, V., Seeger, M., & Smola, A. J. (2020). Criteria for classifying forecasting methods. *International Journal of Forecasting*, 36(1), 167-177.
+- Lim, B., Arik, S. O., Loeff, N., & Pfister, T. (2021). Temporal Fusion Transformers for interpretable multi-horizon time series forecasting. *International Journal of Forecasting*, 37(4), 1748-1764.
 - Makridakis, S., Spiliotis, E., & Assimakopoulos, V. (2018). Statistical and Machine Learning Forecasting Methods: Concerns and Ways Forward. *PLoS ONE*, 13(3), e0194889.
-- Makridakis, S., Spiliotis, E., & Assimakopoulos, V. (2022). M5 accuracy competition: Results, findings, and conclusions. *International Journal of Forecasting*, 38(4), 1346–1364.
-- Silver, E. A., Pyke, D. F., & Peterson, R. (1998). *Inventory Management and Production Planning and Scheduling* (3.ª ed.). John Wiley & Sons.
-- Waller, M. A., & Fawcett, S. E. (2013). Data Science, Predictive Analytics, and Big Data: A Revolution That Will Transform Supply Chain Design and Management. *Journal of Business Logistics*, 34(2), 77–84.
+- Makridakis, S., Spiliotis, E., & Assimakopoulos, V. (2022). M5 accuracy competition: Results, findings, and conclusions. *International Journal of Forecasting*, 38(4), 1346-1364.
+- Silver, E. A., Pyke, D. F., & Peterson, R. (1998). *Inventory Management and Production Planning and Scheduling* (3.a ed.). John Wiley & Sons.
+- Waller, M. A., & Fawcett, S. E. (2013). Data Science, Predictive Analytics, and Big Data: A Revolution That Will Transform Supply Chain Design and Management. *Journal of Business Logistics*, 34(2), 77-84.
 
 ---
 
